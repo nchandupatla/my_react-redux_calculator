@@ -1,0 +1,6 @@
+exports[`test renders a snapshot 1`] = `
+  <Button className="calc-button op-button mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect" 
+           onClick={props.clicked}>
+        {props.label}
+    </Button>
+`;

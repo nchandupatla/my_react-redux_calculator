@@ -1,0 +1,7 @@
+exports[`test renders a snapshot 1`] = `
+  <div className="row">
+        <div className="mdl-textfield mdl-js-textfield">
+          <input id="calc-output" className="mdl-textfield__input" type="text" value={parseFloat(props.value)}  disabled />
+        </div>
+      </div>
+`;

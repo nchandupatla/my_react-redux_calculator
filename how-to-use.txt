@@ -1,0 +1,5 @@
+Once extracted, please follow below steps to run the project
+
+1) Run "npm install" in the extracted folder
+2) Run "npm start" to view the project
+3) Run "jest" to run test cases

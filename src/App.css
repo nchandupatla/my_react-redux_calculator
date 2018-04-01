@@ -1,0 +1,45 @@
+
+body {
+  padding: 20px;
+  background: #fafafa;
+  position: relative;
+  width:800px; 
+  margin:0 auto;
+}
+
+.calc-card {
+  width: 380px;
+  padding: 0;
+}
+
+.buttons {
+  margin: 0 auto;
+}
+
+.row {
+  margin: 4px;
+}
+
+.calc-button {
+  height: 64px !important;
+  font-size: 1.5em;
+}
+
+.calc-button-long .calc-button {
+  width: 132px;
+}
+
+.mdl-textfield {
+  width: 100%;
+  padding: 10px 0 0;
+}
+
+.mdl-textfield input[type="text"] {
+  text-align: center;
+  font-size: 3em;
+  padding: 10px;
+}
+
+.mdl-textfield input[type="text"]:disabled {
+  color: #000;
+}
